@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MmoBomB</string>
+    <string name="see_all_text">See All</string>
+
+    <string name="negative_popup">Close</string>
+    <string name="positive_popup">Reload data</string>
+
+    <string name="banner_title">Try three days free trial</string>
+    <string name="banner_text">You will get all outfit templates, special textures and details</string>
+
+    <string name="error_header">Error</string>
+    <string name="error_description">Response ended with error. You can try reload data from page \n %s</string>
+
+    <string name="internet_connection_header">Internet Lost</string>
+    <string name="internet_connection_description">Network connection lost. Turn on network connection</string>
+
+    <string name="internet_connection_available">Internet connection available. Restart loading</string>
+    <string name="internet_connection_unavailable">Internet connection unavailable. Get back later</string>
+    <string name="platform_text">Platform: %s</string>
+    <string name="developer_text">Developer: %s</string>
+    <string name="genre_text">Genre: %s</string>
+    <string name="release_date_text">Release Date: %s</string>
+    <string name="description_text">Description: %s</string>
+    <string name="screenshot_text">Screenshots:</string>
+
+</resources>
